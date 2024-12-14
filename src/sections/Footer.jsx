@@ -2,6 +2,8 @@ import React from 'react'
 import Navlinks from './Navlinks'
 
 const Footer = () => {
+  console.log("hello world!");
+  
   return (
     <div className='flex flex-col gp-5 items-center justify-center' >
         <div className='flex flex-row gap-3' >
