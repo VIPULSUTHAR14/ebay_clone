@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "image":"https://i.ebayimg.com/thumbs/images/g/Su8AAOSwm61kVfiu/s-l1200.webp",
+        "name":"Filled Drop Earrings Women Gifts Anniversary Jewelry",
+        "prize":"₹450",
+        "path":"/fashion1"
+    },
+    {
+        "id":"2",
+        "image":"https://i.ebayimg.com/thumbs/images/g/k8QAAOSw7AZjFADR/s-l1200.webp",
+        "name":"Dangle Drop Earrings Hook Women Turquoise Jewelry",
+        "prize":"₹399",
+        "path":"/fashion2"
+    },
+    {
+        "id":"3",
+        "image":"https://i.ebayimg.com/thumbs/images/g/kAcAAOSw531jbaMa/s-l1200.webp",
+        "name":"Tassesl Knuckle Ring Open Zircon Rings",
+        "prize":"₹699",
+        "path":"/fashion3"
+    }
+]

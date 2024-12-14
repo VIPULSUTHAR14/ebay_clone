@@ -1,0 +1,32 @@
+[
+  {  "id":"1",
+    "source": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/s/t/-original-imaghxengzjc2djt.jpeg?q=70",
+    "name": "Apple iPhone 14 Pro Max (Silver,128 GB)",
+    "prize": "₹1,27,999",
+    "rom": "128 GB ROM",
+    "screen": "17.02 cm (6.7 inch) Super Retina XDR Display",
+    "camera": "48MP + 12MP + 12MP | 12MP Front Camera",
+    "processor": "A16 Bionic Chip, 6 Core Processor Processor",
+    "path": "/iphone14promaxsilver"
+  },
+  {  "id":"2",
+    "source": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/x/h/-original-imagtc3k6zztrhnb.jpeg?q=70",
+    "name": "Apple iPhone 15 Pro Max (Black Titanium, 256 GB)",
+    "prize": "₹1,39,990",
+    "rom": "256 GB ROM",
+    "screen": "17.02 cm (6.7 inch) Super Retina XDR Display",
+    "camera": "48MP + 12MP + 12MP | 12MP Front Camera",
+    "processor": "A17 Pro Chip, 6 Core Processor Processor",
+    "path": "/iphone15promaxblacktitanium"
+  },
+  {  "id":"3",
+    "source": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/h/c/-original-imagtc3h9h6kpbkc.jpeg?q=70",
+    "name": "Apple iPhone 15 Pro Max (White Titanium, 1 TB)",
+    "prize": "₹1,88,900",
+    "rom": "1 TB ROM",
+    "screen": "17.02 cm (6.7 inch) Super Retina XDR Display",
+    "camera": "48MP + 12MP + 12MP | 12MP Front Camera",
+    "processor": "A17 Pro Chip, 6 Core Processor Processor",
+    "path":"/iphone15promaxwhitetitanium"
+  }
+]

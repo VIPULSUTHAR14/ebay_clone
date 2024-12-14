@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/t/q/-original-imagr4t8zuq2wzhe.jpeg?q=70",
+        "name":"One Plus Nord Buds 2r",
+        "altname":"electronics1",
+        "prize":"₹1,599",
+        "path":"/electronics1"
+    },
+    {
+        "id":"2",
+        "image":"https://rukminim2.flixcart.com/image/612/612/ksw4ccw0/headphone/w/g/r/rockerz-450-boat-original-imag6cqqh49wjfy5.jpeg?q=70",
+        "name":"boAt Rockerz 450 ",
+        "altname":"electronics2",
+        "prize":"₹1,499",
+        "path":"/electronics2"
+    },
+    {
+        "id":"3",
+        "image":"https://rukminim2.flixcart.com/image/612/612/kqwobrk0/headphone/3/n/b/bassheads-100-boat-original-imag4tgdrpxfh3pk.jpeg?q=70",
+        "name":"boAt 100 Wired",
+        "altname":"electronics3",
+        "prize":"₹299",
+        "path":"/electronics3"
+    },
+    {
+        "id":"4",
+        "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/microwave-new/9/j/r/-original-imah2hyhhzdqjj4r.jpeg?q=70",
+        "name":"SAMSUNG 28 L Curd Making",
+        "altname":"electronics4",
+        "prize":"₹12,590",
+        "path":"/electronics4"
+    }
+]

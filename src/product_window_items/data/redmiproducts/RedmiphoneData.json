@@ -1,0 +1,62 @@
+[
+    {
+        "name":"REDMI Note 13 Pro+ 5G (World Champions Edition, 512 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/e/q/-original-imahymwzqgbcgcn2.jpeg?q=70",
+        "prize":"₹36,499",
+        "ramrom":"12 GB RAM | 512 GB ROM",
+        "display":"16.94 cm (6.67 inch) Display",
+        "camera":"200MP (OIS) + 8MP + 2MP | 16MP Front Camera",
+        "Battery":"5000 mAh Battery",
+        "processor":"Dimensity 7200 Ultra 5G Processor"
+    },
+    {
+        "name":"REDMI Note 12 Pro+ 5G (Iceberg Blue, 256 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/z/-original-imaghkvufhjsnw7q.jpeg?q=70",
+        "prize":"₹30,705",
+        "ramrom":"8 GB RAM | 256 GB ROM",
+        "display":"16.94 cm (6.67 inch) Full HD+ AMOLED Display",
+        "camera":"200MP + 8MP + 2MP | 16MP Front Camera",
+        "Battery":"4980 mAh Lithium Polymer Battery",
+        "processor":"Mediatek Dimensity 1080 Processor"
+    },
+    {
+        "name":"Xiaomi 14 CIVI (Matcha Green, 256 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/s/s/14-civi-mzb0hd1in-xiaomi-original-imahfqjxh3dxkdp3.jpeg?q=70",
+        "prize":"₹42,999",
+        "ramrom":"8 GB RAM | 256 GB ROM",
+        "display":"16.64 cm (6.55 inch) Display",
+        "camera":"50MP Rear Camera | 32MP + 32MP Dual Front Camera",
+        "Battery":"4700 mAh Battery",
+        "processor":"8s Gen 3 Mobile Platform Processor"
+    },
+    {
+        "name":"Xiaomi 14 (Black, 512 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/x/f/-original-imagzr2fzpaw9bkq.jpeg?q=70",
+        "prize":"₹69,999",
+        "ramrom":"12 GB RAM | 512 GB ROM",
+        "display":"16.15 cm (6.36 inch) Display",
+        "camera":"50MP + 50MP + 50MP | 32MP Front Camera",
+        "Battery":"4610 mAh Battery",
+        "processor":"Snapdragon 8 Gen 3 Mobile Platform Processor"
+    },
+    {
+        "name":"Xiaomi 12 Pro 5G (Couture Blue, 256 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/l/8/-original-imagqmtfgq7e4edm.jpeg?q=70",
+        "prize":"₹79,990",
+        "ramrom":"12 GB RAM | 256 GB ROM",
+        "display":"17.09 cm (6.73 inch) Full HD+ Display",
+        "camera":"50MP + 50MP + 50MP | 32MP Front Camera",
+        "Battery":"4600 mAh Lithium Polymer Battery",
+        "processor":"Snapdragon 8 Gen 1 Processor"
+    },
+    {
+        "name":"Xiaomi 14 Ultra (Black, 512 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/w/s/14-ultra-mzb0gfhin-xiaomi-original-imagzt8cdy56wmzx.jpeg?q=70",
+        "prize":"₹99,999",
+        "ramrom":"16 GB RAM | 512 GB ROM",
+        "display":"17.09 cm (6.73 inch) Display",
+        "camera":"50MP + 50MP + 50MP + 50MP | 32MP Front Camera",
+        "Battery":"5000 mAh Battery",
+        "processor":"Snapdragon 8 Gen 3 Mobile Platform Processor"
+    }
+]

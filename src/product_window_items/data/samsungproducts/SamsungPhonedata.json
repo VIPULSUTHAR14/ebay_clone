@@ -1,0 +1,35 @@
+[
+    {
+    "name":"Samsung Galaxy S21 FE 5G (Navy, 128 GB)",
+    "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/4/x/0/-original-imagtnqjjfgxzpz4.jpeg?q=70",
+    "prize":"₹27,999",
+    "ramrom":"8 GB RAM | 128 GB ROM",
+    "display":"16.26 cm (6.4 inch) Full HD+ Display",
+    "camara":"12MP + 12MP + 8MP (OIS) | 32MP Front Camera",
+    "battery":"4500 mAh Lithium-ion Battery",
+    "processor":"Snapdragon 888 Processor",
+    "path":"/samsungs21fenavy"
+    },
+    {
+    "name":"SAMSUNG Galaxy S23 FE (Purple, 128 GB)",
+    "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/c/8/-original-imagztn77hdgmeka.jpeg?q=70",
+    "prize":"₹36,999",
+    "ramrom":"8 GB RAM | 128 GB ROM",
+    "display":"16.26 cm (6.4 inch) Full HD+ Display",
+    "camara":"50MP + 12MP | 10MP Front Camera",
+    "battery":"4500 mAh Battery",
+    "processor":"Samsung Exynos 2200 Processor",
+    "path":"/samsungs23fepurple"
+    },
+    {
+    "name":"SAMSUNG Galaxy S23 5G (Green, 256 GB)",
+    "src":"https://m.media-amazon.com/images/I/51GHpfq6kHL._AC_UY327_FMwebp_QL65_.jpg",
+    "prize":"₹51,999",
+    "ramrom":"8 GB RAM | 256 GB ROM",
+    "display":"15.49 cm (6.1 inch) Full HD+ Display",
+    "camara":"50MP + 10MP + 12MP | 12MP Front Camera",
+    "battery":"3900 mAh Lithium Ion Battery",
+    "processor":"Qualcomm Snapdragon 8 Gen 2 Processor",
+    "path":"/samsungs23green"
+    }
+]

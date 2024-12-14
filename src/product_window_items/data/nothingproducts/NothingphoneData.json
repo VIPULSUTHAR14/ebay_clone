@@ -1,0 +1,35 @@
+[
+    {
+        "name":"Nothing Phone (2) (White, 256 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/s/b/-original-imagrdefh2xgenzz.jpeg?q=70",
+        "prize":"₹38,999",
+        "ramrom":"12 GB RAM | 256 GB ROM",
+        "display":"17.02 cm (6.7 inch) Full HD+ Display",
+        "camera":"50 MP(OIS) +50MP | 32MP Front Camera",
+        "bettary":"4700 mAh Lithium ion Battery",
+        "processor":"Qualcomm Snapdragon 8+ Gen 1 Processor",
+        "path":"/NothingPhone2white"
+    },
+    {
+        "name":"Nothing Phone (2) (Dark Grey, 256 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/m/b/-original-imagrdefbw6bhbjr.jpeg?q=70",
+        "prize":"₹38,999",
+        "ramrom":"12 GB RAM | 256 GB ROM",
+        "display":"17.02 cm (6.7 inch) Full HD+ Display",
+        "camera":"50 MP(OIS) +50MP | 32MP Front Camera",
+        "bettary":"4700 mAh Lithium ion Battery",
+        "processor":"Qualcomm Snapdragon 8+ Gen 1 Processor",
+        "path":"/NothingPhone2darkgray"
+    },
+    {
+        "name":"Nothing Phone (2a) 5G (Black, 128 GB)",
+        "src":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/i/x/-original-imagyr3vfpqrpkbv.jpeg?q=70",
+        "prize":"₹23,999",
+        "ramrom":"8 GB RAM | 128 GB ROM",
+        "display":"17.02 cm (6.7 inch) Full HD+ Display",
+        "camera":"50MP (OIS) + 50MP | 32MP Front Camera",
+        "bettary":"5000 mAh Battery",
+        "processor":"Dimensity 7200 Pro Processor",
+        "path":"/NothingPhone2black"
+    }
+]
